@@ -1,8 +1,8 @@
-# Java Spring 17 Employee Management System Project README
+# Java Spring Boot Employee Management System Project README
 
 ## Description
 
-This README provides step-by-step instructions on setting up and running your Java Spring 17 project. To successfully run the project, you'll need to start the MySQL server and configure your machine's database password in the `application.properties` file located in `src/main/resources`.
+This README provides step-by-step instructions on setting up and running your Java Spring Boot project. To successfully run the project, you'll need to start the MySQL server and configure your machine's database password in the `application.properties` file located in `src/main/resources`.
 
 ### Prerequisites
 
